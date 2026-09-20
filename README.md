@@ -225,4 +225,4 @@ Webroot SecureAnywhere AntiVirus is provided as a complete free version with all
 Don't compromise on your security. Download Webroot SecureAnywhere AntiVirus today for a safe browsing experience!
 
 ---
-**Last updated:** 2026-09-19 22:11:23 UTC
+**Last updated:** 2026-09-20 00:44:32 UTC
